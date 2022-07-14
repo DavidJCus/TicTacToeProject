@@ -1,3 +1,7 @@
+"""
+The following is called a package. This is what will allow us to have a user interface. Packages contain pre--made code
+that allows us to have new functionality and save time
+"""
 import tkinter as tk
 
 root = tk.Tk()
